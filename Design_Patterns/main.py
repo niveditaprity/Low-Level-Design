@@ -1,4 +1,4 @@
-from LLD.FactoryDesignPattern.ShapeFactory.ShapeFactory import ShapeFactory
+from LLD.Design_Patterns.Creational.FactoryDesignPattern.ShapeFactory.ShapeFactory import ShapeFactory
 
 shape = ShapeFactory()
 

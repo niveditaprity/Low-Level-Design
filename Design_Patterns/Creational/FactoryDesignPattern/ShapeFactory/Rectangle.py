@@ -1,4 +1,4 @@
-from LLD.FactoryDesignPattern.ShapeFactory.Shape import Shape
+from LLD.Design_Patterns.Creational.FactoryDesignPattern.ShapeFactory.Shape import Shape
 
 
 class Rectangle(Shape):

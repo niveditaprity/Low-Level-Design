@@ -1,4 +1,4 @@
-from LLD.FactoryDesignPattern.Vehicle import Vehicle
+from LLD.Design_Patterns.Creational.FactoryDesignPattern.Vehicle import Vehicle
 
 
 class Bus(Vehicle):

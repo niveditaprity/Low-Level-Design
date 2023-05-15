@@ -1,6 +1,6 @@
-from LLD.FactoryDesignPattern.ShapeFactory.Circle import Circle
-from LLD.FactoryDesignPattern.ShapeFactory.Rectangle import Rectangle
-from LLD.FactoryDesignPattern.ShapeFactory.Square import Square
+from LLD.Design_Patterns.Creational.FactoryDesignPattern.ShapeFactory.Circle import Circle
+from LLD.Design_Patterns.Creational.FactoryDesignPattern.ShapeFactory.Rectangle import Rectangle
+from LLD.Design_Patterns.Creational.FactoryDesignPattern.ShapeFactory.Square import Square
 
 
 class ShapeFactory:
